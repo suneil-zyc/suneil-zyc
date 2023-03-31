@@ -1,5 +1,4 @@
-# Antonio Cheong
-
+# Hi there 👋
 
 <!--
 **suneil-zyc/suneil-zyc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,7 +25,7 @@ Welcome to my page!
 - Python
 - Rust
 
-### 🌱 I’m currently learning
+## 🌱 I’m currently learning
 
 -
 -
