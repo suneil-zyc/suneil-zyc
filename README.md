@@ -17,6 +17,19 @@ Here are some ideas to get you started:
 Welcome to my page!
 <img align="center" src="https://raw.githubusercontent.com/plexpt/plexpt/snake/github-snake.svg">
 
+## 🔭I’m currently code with
+
+- TypeScript
+- JavaScript
+- Go
+- Python
+- Rust
+
+### 🌱 I’m currently learning
+
+-
+-
+-
 
 ![suneil's github stats](https://github-readme-stats.vercel.app/api?username=suneil&show_icons=true&count_private=true&theme=vue-dark)
 
