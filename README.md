@@ -15,5 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Welcome to my page!
+<img align="center" src="https://raw.githubusercontent.com/plexpt/plexpt/snake/github-snake.svg">
 
-https://raw.githubusercontent.com/plexpt/plexpt/snake/github-snake.svg
+
+![suneil's github stats](https://github-readme-stats.vercel.app/api?username=suneil&show_icons=true&count_private=true&theme=vue-dark)
+
