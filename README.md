@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Welcome to my page!
+
+https://raw.githubusercontent.com/plexpt/plexpt/snake/github-snake.svg
