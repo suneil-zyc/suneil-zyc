@@ -33,6 +33,6 @@ Welcome to my page!
 
 ![suneil's github stats](https://github-readme-stats.vercel.app/api?username=suneil&show_icons=true&count_private=true&theme=vue-dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suneil&theme=vue-dark)](https://github.com/suneil)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suneil&theme=vue-dark)](https://github.com/suneil-zyc)
 
 
